@@ -1,0 +1,33 @@
+@font-face{
+    font-family: "LoveLo";
+    src: url("Lovelo_Black.otf")
+}
+.navbar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display:flex;
+    align-items:center;
+    width: 100vw;
+    height: 5rem;
+    color: #4D8AB5;
+
+}
+
+.letter-logo {
+    font-family: 'LoveLo', serif;
+    font-size: 28px;
+    border: 2px solid #4D8AB5;
+    text-decoration: none;
+    color: #4D8AB5;
+    padding: 5px;
+    margin-left: 1rem
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 30rem;
+    margin-left: auto;
+    margin-right: 2rem;
+}
