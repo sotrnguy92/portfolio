@@ -1,6 +1,6 @@
 @font-face{
     font-family: "LoveLo";
-    src: url("Lovelo_Black.otf")
+    src: url("src/fonts/Lovelo_Black.otf")
 }
 .navbar{
     position: -webkit-sticky;
