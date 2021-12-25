@@ -11,9 +11,8 @@
     width: 100vw;
     height: 5rem;
     color: #4D8AB5;
-    background-color:rgba(255,255,255,0.9);
+    background-color:rgba(20,20,20,0.9);
     backdrop-filter: blur(4px);
-
 }
 
 .letter-logo {

@@ -1,6 +1,35 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("../../fonts/Montserrat-Light.ttf");
+}
+
 .about-container{
     display: flex;
+    justify-content: center;
+    align-items: center;
     height: 750px;
-    background-color: grey;
+    /*background-color: grey;*/
+}
+.hero-box{
+    font-family: 'Montserrat';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*background-color:cornflowerblue;*/
+    width: 30%;
+}
+.hero-box img{
+    border-radius:50%;
+    height:250px;
+    width: 250px;
+}
+h1{
+    font-size: 48px;
+    font-weight: 100;
+    margin: 0;
+}
 
+.about-blurb{
+    width: 30%;
+    /*background-color: chocolate;*/
 }
