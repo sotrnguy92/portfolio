@@ -18,7 +18,6 @@ export const About = () => {
             <div className='about-blurb'>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dolores eius explicabo ipsa ipsum minima molestiae odit pariatur quaerat. Corporis culpa delectus earum fugit id, iure magnam saepe voluptatum? Magnam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus excepturi impedit, laborum nemo repellat sed tempore. Consequatur dolores eveniet fuga ratione recusandae sapiente suscipit voluptatibus! Cumque eaque eligendi nam veritatis.
             </div>
-
         </div>
     )
 }
