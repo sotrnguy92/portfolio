@@ -1,15 +1,43 @@
 import React from 'react'
 import './NavBar.css'
+import { Link, animateScroll as scroll } from "react-scroll";
 
 export const NavBar = () =>{
+
     return (
         <div className="navbar">
             <a href={"#"} className="letter-logo">SON NGUYEN</a>
             <div className="nav-menu">
-                <a>ABOUT</a>
-                <a>PROJECTS</a>
-                <a>EXPERIENCE</a>
-                <a>CONTACT</a>
+                <Link
+                    activeClass="active"
+                    to="about"
+                    spy={true}
+                    smooth={true}
+                    offset={0}
+                    duration= {500}
+                >ABOUT</Link>
+
+                <Link
+                    activeClass="active"
+                    to="projects"
+                    spy={true}
+                    smooth={true}
+                    offset={0}
+                    duration= {500}>PROJECTS</Link>
+                <Link
+                    activeClass="active"
+                    to="experience"
+                    spy={true}
+                    smooth={true}
+                    offset={0}
+                    duration= {500}>EXPERIENCE</Link>
+                <Link
+                    activeClass="active"
+                    to="contact"
+                    spy={true}
+                    smooth={true}
+                    offset={0}
+                    duration= {500}>CONTACT</Link>
             </div>
         </div>
     )
