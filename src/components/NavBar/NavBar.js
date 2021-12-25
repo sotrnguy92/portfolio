@@ -6,10 +6,10 @@ export const NavBar = () =>{
         <div className="navbar">
             <a href={"#"} className="letter-logo">SON NGUYEN</a>
             <div className="nav-menu">
-                <div>ABOUT</div>
-                <div>PROJECTS</div>
-                <div>EXPERIENCE</div>
-                <div>CONTACT</div>
+                <a>ABOUT</a>
+                <a>PROJECTS</a>
+                <a>EXPERIENCE</a>
+                <a>CONTACT</a>
             </div>
         </div>
     )
