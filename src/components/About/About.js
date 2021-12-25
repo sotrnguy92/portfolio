@@ -1,6 +1,5 @@
 import React from 'react';
 import './About.css'
-
 export const About = () => {
     return (
         <div className='about-container'>
@@ -14,7 +13,6 @@ export const About = () => {
                 <div>
                     <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="profile-image"/>
                 </div>
-
 
             </div>
             <div className='about-blurb'>
