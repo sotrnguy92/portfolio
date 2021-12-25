@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
         <NavBar/>
-        <div style={{marginTop:"100vh"}}> intro to site </div>
         <About/>
+        <div style={{marginTop:"100vh"}}> intro to site </div>
         <div> Projects</div>
         <div> Technologies</div>
         <div> Contact </div>
