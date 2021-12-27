@@ -1,7 +1,7 @@
 .skills-container{
     margin-top: 100px;
     padding: 100px 0;
-    background-color: rgba(220,220,220);
+    background-color: rgba(247,247,255, 1);
     width: 100vw;
     height: fit-content;
     display: flex;
@@ -16,7 +16,28 @@
 }
 .columns-container{
     margin-left:100px;
+    margin-right:50px;
     width: 60%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+}
+.section-container h3{
+    font-weight: 700;
+    letter-spacing: .1rem;
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom:0;
+
+}
+
+.section-container ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    text-align: left;
+    vertical-align: center;
+}
+li{
+    padding-top: .5em;
 }
