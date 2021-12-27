@@ -14,16 +14,16 @@ export const NavBar = () =>{
                     spy={true}
                     smooth={true}
                     offset={0}
-                    duration= {500}
+                    duration= {700}
                 >ABOUT</Link>
 
                 <Link
                     activeClass="active"
-                    to="projects"
+                    to="skills"
                     spy={true}
                     smooth={true}
                     offset={0}
-                    duration= {500}>PROJECTS</Link>
+                    duration= {700}>SKILLS</Link>
                 <Link
                     activeClass="active"
                     to="experience"
