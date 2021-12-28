@@ -16,8 +16,14 @@ export const About = () => {
 
             </div>
             <div className='about-blurb'>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dolores eius explicabo ipsa ipsum minima molestiae odit pariatur quaerat. Corporis culpa delectus earum fugit id, iure magnam saepe voluptatum? Magnam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus excepturi impedit, laborum nemo repellat sed tempore. Consequatur dolores eveniet fuga ratione recusandae sapiente suscipit voluptatibus! Cumque eaque eligendi nam veritatis.
+                <p>
+                    I'm a web developer that works primarily in JavaScript using React and Node for the front-end and back-end. I'm always working on projects that allow me to improve my skills and learn new technologies. I aspire towards a career that allows me to bring ideas to life on the web for people to enjoy.
+                </p>
+                <p>
+                    When I'm not on my computer you can find me hiking, climbing, playing badminton, or just hanging out with my husky.
+                </p>
             </div>
+
         </div>
     )
 }
