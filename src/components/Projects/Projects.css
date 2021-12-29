@@ -11,21 +11,28 @@
     box-sizing: border-box;
 }
 
+.projects{
+    margin: 100px 0;
+    color: #4D8AB5
+}
+
 .project-container{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     height: fit-content;
-    background-color: grey;
     padding: 50px;
+    width: 80%;
+    margin:auto;
 
 
 }
 .card{
-    background-color:violet;
+    background-color:grey;
     color: var(--clr-neutral-900);
+    width: 40ch;
+    max-height: 45ch;
     max-width: 40ch;
-    max-height:45ch;
     height:fit-content;
     background-size: cover;
     padding: 10rem 0 0;
@@ -34,11 +41,13 @@
     overflow-y: hidden;
     margin:20px;
 
-    transition: transform 500ms ease;
+    transition: transform, box-shadow  500ms ease;
+
 }
 
 .card:hover{
     transform: scale(1.03);
+    box-shadow: 12px 12px 2px 1px var(--highlight-color);
 }
 
 .card-content{
@@ -111,5 +120,36 @@
 
 .button:hover,
 .button:focus{
-    background-color: var(--highlight-color)
+    background-color: var(--highlight-color);
+}
+
+.badminton-buddy{
+    background-image: url(../../images/badminton-buddy.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.chype{
+    background-image: url(../../images/chype.png);
+    background-size: cover;
+}
+
+.todo-app{
+    background-image: url(../../images/todo-app.png);
+    background-size: cover;
+}
+
+.note-taker{
+    background-image: url(../../images/note-taker.png);
+    background-size: cover;
+}
+
+.dine-outside{
+    background-image: url(../../images/dine-outside.png);
+    background-size: cover;
+}
+
+.tinder-clone{
+    background-image: url(../../images/tinder-clone.png);
+    background-size: cover;
 }
