@@ -11,7 +11,7 @@ export const About = () => {
                     Web Developer
                 </h4>
                 <div>
-                    <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="profile-image"/>
+                    <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="profile"/>
                 </div>
 
             </div>

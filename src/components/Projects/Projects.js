@@ -12,7 +12,7 @@ export const Projects = () => {
                         <p className="card-body">
                             An app made to assist in managing a badminton team. Built with React, Node, Redux, and MongoDB
                         </p>
-                        <a target="_blank"  href="https://badminton-buddy.web.app/" className="button"> Visit Site</a>
+                        <a target="_blank"  rel="noopener noreferrer"   href="https://badminton-buddy.web.app/" className="button"> Visit Site</a>
                     </div>
                 </div>
 
@@ -22,7 +22,7 @@ export const Projects = () => {
                         <p className="card-body">
                             A messenger app with transliteration. Built with React, Express, MongoDb, and Socket.io
                         </p>
-                        <a target="_blank"  href="https://chype.herokuapp.com/" className="button"> Visit Site</a>
+                        <a target="_blank"  rel="noopener noreferrer"   href="https://chype.herokuapp.com/" className="button"> Visit Site</a>
                     </div>
                 </div>
 
@@ -32,7 +32,7 @@ export const Projects = () => {
                         <p className="card-body">
                             A simple todo app that allows you to track tasks. Built with React, MySQL, and Node.
                         </p>
-                        <a target="_blank"  href="https://son-todo-app2020.herokuapp.com/#/" className="button" > Visit Site</a>
+                        <a target="_blank"  rel="noopener noreferrer"   href="https://son-todo-app2020.herokuapp.com/#/" className="button" > Visit Site</a>
                     </div>
                 </div>
 
@@ -42,7 +42,7 @@ export const Projects = () => {
                         <p className="card-body">
                             An app that allows you to manage notes. Built with HTML, CSS, and express.js
                         </p>
-                        <a target="_blank"  href="https://thawing-oasis-39840.herokuapp.com/" className="button"> Visit Site</a>
+                        <a target="_blank"  rel="noopener noreferrer"   href="https://thawing-oasis-39840.herokuapp.com/" className="button"> Visit Site</a>
                     </div>
                 </div>
                 <div className='card dine-outside'>
@@ -51,7 +51,7 @@ export const Projects = () => {
                         <p className="card-body">
                             A restaurant search engine that displays weather conditions in the area and outside seating availability.
                         </p>
-                        <a target="_blank"  href="https://sotrnguy92.github.io/dineOutside/" className="button"> Visit Site</a>
+                        <a target="_blank"  rel="noopener noreferrer"   href="https://sotrnguy92.github.io/dineOutside/" className="button"> Visit Site</a>
                     </div>
                 </div>
                 <div className='card tinder-clone'>
@@ -60,7 +60,7 @@ export const Projects = () => {
                         <p className="card-body">
                             A simple Tinder clone made with React, Node, and MongoDB.
                         </p>
-                        <a target="_blank"  href="https://tinder-clone-4c593.web.app/" className="button"> Visit Site</a>
+                        <a target="_blank"  rel="noopener noreferrer"   href="https://tinder-clone-4c593.web.app/" className="button"> Visit Site</a>
                     </div>
                 </div>
             </div>
