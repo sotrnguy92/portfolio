@@ -8,8 +8,7 @@
     margin:5px;
     fill: #FFFFFF;
     padding:10px;
-    background-color: #666666;
-    transition: transform 200ms ease;
+    transition: transform, background-color 300ms ease;
 }
 
 .footer-icon:hover{

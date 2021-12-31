@@ -19,10 +19,19 @@
     min-width: 250px;
     margin-right: 100px;
 }
-.hero-box img{
-    border-radius:50%;
-    height:250px;
+.pic-container{
     width: 250px;
+    height: 250px;
+    margin:auto;
+    padding:0;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.profile-pic{
+    position: relative;
+    bottom: 40px;
+    height: auto;
+    max-width: 250px;
 }
 h1{
     font-size: 48px;

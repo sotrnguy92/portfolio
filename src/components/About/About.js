@@ -1,5 +1,6 @@
 import React from 'react';
 import './About.css'
+import profilePic from '../../images/profile-pic.jpg'
 export const About = () => {
     return (
         <div id='about' className='about-container'>
@@ -10,8 +11,8 @@ export const About = () => {
                 <h4>
                     Web Developer
                 </h4>
-                <div>
-                    <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="profile"/>
+                <div className='pic-container'>
+                    <img className='profile-pic' src={profilePic} alt="profile"/>
                 </div>
 
             </div>
