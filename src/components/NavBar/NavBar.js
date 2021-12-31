@@ -26,11 +26,11 @@ export const NavBar = () =>{
                     duration= {700}>SKILLS</Link>
                 <Link
                     activeClass="active"
-                    to="experience"
+                    to="projects"
                     spy={true}
                     smooth={true}
                     offset={0}
-                    duration= {500}>EXPERIENCE</Link>
+                    duration= {500}>PROJECTS</Link>
                 <Link
                     activeClass="active"
                     to="contact"

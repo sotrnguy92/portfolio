@@ -4,7 +4,7 @@ import './Contact.css'
 export const Contact = () => {
     return (
 
-        <div className="contact-container">
+        <div className="contact-container contact">
             <PaperPlaneSvg/>
             <h1>GET IN TOUCH</h1>
             <body className='contact-body'>
