@@ -1,4 +1,4 @@
-import React, {useRef} from "react";
+import React from "react";
 import './App.css';
 import {NavBar} from './components/NavBar/NavBar'
 import {About} from './components/About/About'
@@ -12,11 +12,7 @@ function App() {
         <About />
         <Skills/>
         <Projects/>
-        <div style={{marginTop:"100vh"}}> intro to site </div>
-        <div> Projects</div>
-        <div> Technologies</div>
-        <div> Contact </div>
-        <div>footer</div>
+
     </div>
   );
 };
