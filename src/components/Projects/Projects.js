@@ -32,7 +32,7 @@ export const Projects = () => {
                         <p className="card-body">
                             A simple todo app that allows you to track tasks. Built with React, MySQL, and Node.
                         </p>
-                        <a target="_blank"  href="https://son-todo-app2020.herokuapp.com/#/" target="_blank"  className="button"> Visit Site</a>
+                        <a target="_blank"  href="https://son-todo-app2020.herokuapp.com/#/" className="button" > Visit Site</a>
                     </div>
                 </div>
 
