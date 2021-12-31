@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("../../fonts/Montserrat-Light.ttf");
+}
+
+.email{
+    font-family: "Montserrat";
+    letter-spacing:1px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    position: sticky;
+    top: 85vh;
+    right:0;
+    color:  #4D8AB5;
+    margin-left:85%;
+    transform: rotate(90deg);
+
+}
+
+.email-link:hover{
+    cursor: pointer;
+}

@@ -3,7 +3,7 @@
     src: url("../../fonts/Lovelo_Black.otf")
 }
 .navbar{
-    position: -webkit-sticky;
+    /*transform:rotate(90deg);*/
     position: sticky;
     top: 0;
     display:flex;
@@ -45,3 +45,4 @@
     /*margin-right: 2rem;*/
     height: 100%;
 }
+
