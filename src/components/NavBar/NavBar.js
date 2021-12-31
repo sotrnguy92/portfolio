@@ -6,7 +6,13 @@ export const NavBar = () =>{
 
     return (
         <div className="navbar">
-            <a href={"#"} className="letter-logo">SON NGUYEN</a>
+            <Link activeClass="active"
+                  to="about"
+                  spy={true}
+                  smooth={true}
+                  offset={0}
+                  duration= {700}
+                  className="letter-logo">SON NGUYEN</Link>
             <div className="nav-menu">
                 <Link
                     activeClass="active"
