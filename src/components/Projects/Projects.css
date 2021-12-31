@@ -31,11 +31,11 @@
     background-color:grey;
     color: var(--clr-neutral-900);
     width: 40ch;
-    max-height: 45ch;
+    max-height: 35ch;
     max-width: 40ch;
     height:fit-content;
     background-size: cover;
-    padding: 10rem 0 0;
+    padding: 5rem 0 0;
     text-align: left;
     border-radius: 5%;
     overflow-y: hidden;
