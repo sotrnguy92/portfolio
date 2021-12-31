@@ -47,9 +47,9 @@ export const Projects = () => {
                 </div>
                 <div className='card dine-outside'>
                     <div className="card-content">
-                        <h2 className="card-title"> Something Awesome</h2>
+                        <h2 className="card-title"> Dine Outside</h2>
                         <p className="card-body">
-                            A restaurant search engine that displays weather conditions in the area for and outside seating availability.
+                            A restaurant search engine that displays weather conditions in the area and outside seating availability.
                         </p>
                         <a target="_blank"  href="https://sotrnguy92.github.io/dineOutside/" className="button"> Visit Site</a>
                     </div>
