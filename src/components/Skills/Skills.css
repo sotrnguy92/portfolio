@@ -1,3 +1,8 @@
+@font-face{
+    font-family: "LoveLo";
+    src: url("../../fonts/Lovelo_Black.otf")
+}
+
 .skills-container{
     margin-top: 100px;
     padding: 100px 0;
@@ -9,10 +14,14 @@
 }
 
 .skills-header{
+    font-family: "LoveLo", sans-serif;
+    font-size: 36px;
     width: 10%;
     margin-left:100px;
+    margin-top:20px;
     color: #4D8AB5;
     max-height:200px;
+    padding:0;
 }
 .columns-container{
     margin-left:100px;
