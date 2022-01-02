@@ -6,7 +6,7 @@ export const Contact = () => {
 
         <div className="contact-container contact">
             <PaperPlaneSvg/>
-            <h1>GET IN TOUCH</h1>
+            <h1 className='get-in-touch'>GET IN TOUCH</h1>
             <div className='contact-body'>
             Want to work on a project together or just nerd out? <br/> Shoot me an email and let's make it happen!
             </div>

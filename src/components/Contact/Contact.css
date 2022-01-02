@@ -2,14 +2,15 @@
     font-family: "Montserrat";
     src: url("../../fonts/Montserrat-Light.ttf");
 }
+
 .contact-container{
     background-color: rgba(247,247,255, 1);
     padding: 150px 0;
 }
 
-.contact-container h1{
+.get-in-touch{
     color: #4D8AB5;
-    margin-bottom: 50px;
+    margin: 35px 0 15px;
 }
 
 .contact-body{
@@ -26,6 +27,7 @@
     font-weight:100;
     padding: 5px 0;
     border: 1px solid;
+    user-select: none;
 }
 
 .contact-button:hover{
