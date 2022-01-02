@@ -8,9 +8,7 @@ export const About = () => {
                 <h1>
                     HI, I'M SON
                 </h1>
-                <h4>
-                    Web Developer
-                </h4>
+
                 <div className='pic-container'>
                     <img className='profile-pic' src={profilePic} alt="profile"/>
                 </div>
