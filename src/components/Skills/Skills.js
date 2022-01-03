@@ -24,11 +24,11 @@ export const Skills = () => {
                         Front-End
                     </h3>
                     <ul>
-                        <li><ReactSvg/> React</li>
-                        <li> <Html5Svg/> HTML5 </li>
-                        <li><Css3Svg/> CSS3</li>
-                        <li><ReduxSvg/> Redux</li>
-                        <li> <MuiSvg/> MUI</li>
+                        <li><ReactSvg/> &nbsp; React</li>
+                        <li> <Html5Svg/> &nbsp; HTML5 </li>
+                        <li><Css3Svg/> &nbsp; CSS3</li>
+                        <li><ReduxSvg/> &nbsp; Redux</li>
+                        <li> <MuiSvg/> &nbsp; MUI</li>
                     </ul>
                 </div>
                 <div className='section-container'>
@@ -36,11 +36,11 @@ export const Skills = () => {
                          Back-End
                     </h3>
                     <ul>
-                        <li><JavaScriptSvg/> JavaScript</li>
-                        <li> <NodeSvg/> Node </li>
-                        <li> <MongoDbSvg/> MongoDB</li>
-                        <li><MySqlSvg/> MySQL</li>
-                        <li><PostgreSqlSvg/> PostgreSQL</li>
+                        <li><JavaScriptSvg/> &nbsp; JavaScript</li>
+                        <li> <NodeSvg/> &nbsp; Node </li>
+                        <li> <MongoDbSvg/> &nbsp; MongoDB</li>
+                        <li><MySqlSvg/> &nbsp; MySQL</li>
+                        <li><PostgreSqlSvg/> &nbsp; PostgreSQL</li>
                     </ul>
                 </div>
                 <div className='section-container'>
@@ -48,10 +48,10 @@ export const Skills = () => {
                          Tools
                     </h3>
                     <ul>
-                        <li><GitBashSvg/> Git Bash</li>
-                        <li> <GithubSvg/> Github </li>
-                        <li> <PostmanSvg/> PostMan </li>
-                        <li><ChromeSvg/> Chrome DevTools</li>
+                        <li><GitBashSvg/> &nbsp; Git Bash</li>
+                        <li> <GithubSvg/> &nbsp; Github </li>
+                        <li> <PostmanSvg/> &nbsp; PostMan </li>
+                        <li><ChromeSvg/> &nbsp; Chrome DevTools</li>
                     </ul>
                 </div>
 
