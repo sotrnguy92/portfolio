@@ -45,7 +45,7 @@ export const Skills = () => {
                 </div>
                 <div className='section-container'>
                     <h3>
-                        <ToolsSvg/> Tools
+                         Tools
                     </h3>
                     <ul>
                         <li><GitBashSvg/> Git Bash</li>

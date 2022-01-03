@@ -15,10 +15,12 @@
     box-sizing: border-box;
 }
 
+
+
 .projects h1{
     font-family: "LoveLo";
     font-size: 36px;
-    padding: 75px 0;
+    padding: 100px 0 25px;
     color: #4D8AB5;
     margin:0;
 }
