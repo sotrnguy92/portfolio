@@ -9,6 +9,7 @@
     fill: #FFFFFF;
     padding:10px;
     transition: transform, background-color 300ms ease;
+    border-radius: 5px;
 }
 
 .footer-icon:hover{
