@@ -18,7 +18,7 @@ export const About = () => {
                 <p>
                     I'm a web developer working primarily in JavaScript using React and Node for the front-end and back-end. I'm always looking for new projects that allow me to grow my skills and learn new technologies. I aspire towards a career in web development that allows me to bring ideas to life for people to enjoy.                </p>
                 <p>
-                    When I'm not behind a screen you can find me hiking, climbing, playing badminton, or hanging out with my husky.
+                    When I'm not behind a screen you can find me hiking, climbing, playing badminton, or hanging with my husky.
                 </p>
             </div>
 
